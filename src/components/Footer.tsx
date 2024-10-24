@@ -17,6 +17,7 @@ export const Footer = () => {
           >
             Lyvena.
           </a>
+          <span className="ml-1">All rights reserved.</span>
         </div>
       </div>
     </footer>
